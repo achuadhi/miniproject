@@ -1,0 +1,14 @@
+{
+  "targets": {
+    "cats-41343": {
+      "hosting": {
+        "cats": [
+          "cats-41343"
+        ]
+      }
+    }
+  },
+  "projects": {
+    "default": "cats-41343"
+  }
+}
